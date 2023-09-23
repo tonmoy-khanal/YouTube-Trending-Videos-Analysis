@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- GitHub: [YourGitHubUsername]([https://github.com/](https://github.com/tonmoy-khanal))
+- GitHub:(https://github.com/tonmoy-khanal)
 - Email: tonmoykhanal86@gmail.com
 
 Feel free to reach out for questions, feedback, or collaboration opportunities.
